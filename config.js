@@ -61,7 +61,7 @@ window.CONFIG = {
   // posicao: ajuste pelo editor visual (?editor=1), escolhendo “PIX (copiar chave)”.
   pix: {
     ativo: true,
-    chave: "00020101021126580014br.gov.bcb.pix01365210c16e-d225-40ac-ae51-46aafcf6426c5204000053039865802BR5916MARIA H Z SANTOS6008SOROCABA62070503***6304E9FA",
+    chave: "22003483713",
     posicao: {"left":29.068370607028754,"top":71.8250896805022,"width":42.894562450079874,"height":4.632691840858734}
   },
 
@@ -90,8 +90,8 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:false, posicao: {"left":24.2,"top":83.6,"width":48.25240552615814,"height":5.61357710872642} },
-    dresscode: { mostrarTexto:true, posicao: {"left":30.281469648562297,"top":84.58400621694679,"width":39.22046600439297,"height":5.0793992128466705} },
-    manual: { mostrarTexto:true, posicao: {"left":29.66802927815495,"top":84.3538491611661,"width":41.060693515375405,"height":5.309555171188598} }
+    dresscode: { mostrarTexto:false, posicao: {"left":30.281469648562297,"top":84.58400621694679,"width":39.22046600439297,"height":5.0793992128466705} },
+    manual: { mostrarTexto:false, posicao: {"left":29.66802927815495,"top":84.3538491611661,"width":41.060693515375405,"height":5.309555171188598} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
